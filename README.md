@@ -1,2 +1,2 @@
-# projeto_inicial_git_github
-Projeto sobre o Git/GitHub
+# Repositório do Projeto Inicial Git GitHub
+Projeto inicial para estudos sobre o Git/GitHub
