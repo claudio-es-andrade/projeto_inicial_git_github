@@ -1,0 +1,20 @@
+# Informações Úteis:
+## Link para Download do Git
+* 	Download para Linux/Unix:  https://git-scm.com/download/linux
+2.	Download para MacOS:       https://git-scm.com/download/mac
+3.	Download para Windows:     https://git-scm.com/download/win
+
+Para aqueles com o Git instalado
+* git clone https://github.com/git/git
+### Git com GUI Clients
+###  https://git-scm.com/downloads/guis/
+	*  Android:   
+#### https://git-scm.com/download/gui/android
+	* iOS:
+####	        https://git-scm.com/download/gui/ios
+	* Linux:
+####	      https://git-scm.com/download/gui/linux
+	* Mac:
+####	        https://git-scm.com/download/gui/mac
+	* Windows:
+####	    https://git-scm.com/download/gui/windows
